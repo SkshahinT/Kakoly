@@ -451,6 +451,11 @@ span {
 
 /* about section ends here */
 
+.portfolio{
+    min-height: auto;
+    background: var(--second-bg-color);
+}
+
 
 /* skill section start from here */
 
